@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{46DEAD99-CC67-557D-70BE-00DB2E2EF02F}") = "WastelandRunner", "Assembly-CSharp-firstpass.csproj", "{93CF6B5F-6B89-7196-3B20-486888E0D1DA}"
+EndProject
+Project("{46DEAD99-CC67-557D-70BE-00DB2E2EF02F}") = "WastelandRunner", "Assembly-CSharp-Editor.csproj", "{224DB93C-DD4C-FFE9-DF38-FC3C0AF9CA13}"
+EndProject
+Project("{46DEAD99-CC67-557D-70BE-00DB2E2EF02F}") = "WastelandRunner", "Assembly-UnityScript.unityproj", "{D66C8C58-85D6-AF39-D6D8-CE85C7E70466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CF6B5F-6B89-7196-3B20-486888E0D1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CF6B5F-6B89-7196-3B20-486888E0D1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CF6B5F-6B89-7196-3B20-486888E0D1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CF6B5F-6B89-7196-3B20-486888E0D1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224DB93C-DD4C-FFE9-DF38-FC3C0AF9CA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224DB93C-DD4C-FFE9-DF38-FC3C0AF9CA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224DB93C-DD4C-FFE9-DF38-FC3C0AF9CA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224DB93C-DD4C-FFE9-DF38-FC3C0AF9CA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66C8C58-85D6-AF39-D6D8-CE85C7E70466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66C8C58-85D6-AF39-D6D8-CE85C7E70466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66C8C58-85D6-AF39-D6D8-CE85C7E70466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66C8C58-85D6-AF39-D6D8-CE85C7E70466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+- body removal ( fire, explode, nuke )
+- levels with saved progress
+- GJ highscores per level
+- more weapons
+- throwables (grenade, molotov)
